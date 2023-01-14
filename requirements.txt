@@ -1,0 +1,6 @@
+mojimoji==0.0.12
+numpy==1.19.5
+opencv-contrib-python==4.6.0.66
+PySimpleGUI==4.60.3
+schedule==1.1.0
+
